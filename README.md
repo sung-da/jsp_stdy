@@ -1,1 +1,1 @@
-# jsp_stdy
+# jsp_study
